@@ -23,3 +23,6 @@ Member of **SHPE · NSBE · Code Coogs · Alpha Sigma Phi** — active in the
 engineering community and committed to opening doors for underrepresented students.
 
 🎯 Currently seeking internships in **Hardware, Embedded Systems, or IT.**
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-rosa4097/)
