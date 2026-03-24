@@ -22,4 +22,4 @@ thermal systems, and mission feasibility.
 Member of **SHPE · NSBE · Code Coogs · Alpha Sigma Phi** — active in the 
 engineering community and committed to opening doors for underrepresented students.
 
-🎯 Currently seeking internships in **hardware, embedded systems, or aerospace.**
+🎯 Currently seeking internships in **Hardware, Embedded Systems, or IT.**
